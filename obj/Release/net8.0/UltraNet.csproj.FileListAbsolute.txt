@@ -1,0 +1,12 @@
+E:\Upwork\UltraNet\UltraNet\bin\Release\net8.0\UltraNet.deps.json
+E:\Upwork\UltraNet\UltraNet\bin\Release\net8.0\UltraNet.dll
+E:\Upwork\UltraNet\UltraNet\bin\Release\net8.0\UltraNet.pdb
+E:\Upwork\UltraNet\UltraNet\obj\Release\net8.0\UltraNet.csproj.AssemblyReference.cache
+E:\Upwork\UltraNet\UltraNet\obj\Release\net8.0\UltraNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Upwork\UltraNet\UltraNet\obj\Release\net8.0\UltraNet.AssemblyInfoInputs.cache
+E:\Upwork\UltraNet\UltraNet\obj\Release\net8.0\UltraNet.AssemblyInfo.cs
+E:\Upwork\UltraNet\UltraNet\obj\Release\net8.0\UltraNet.csproj.CoreCompileInputs.cache
+E:\Upwork\UltraNet\UltraNet\obj\Release\net8.0\UltraNet.dll
+E:\Upwork\UltraNet\UltraNet\obj\Release\net8.0\refint\UltraNet.dll
+E:\Upwork\UltraNet\UltraNet\obj\Release\net8.0\UltraNet.pdb
+E:\Upwork\UltraNet\UltraNet\obj\Release\net8.0\ref\UltraNet.dll
